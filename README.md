@@ -1,6 +1,6 @@
-# Python Basics 🚀
+# Python Basics 
 
-Hi, I'm Namratha 👋  
+Hi, I'm Namratha 
 This repository contains my Python learning journey.
 
 ## Topics Covered
@@ -9,4 +9,4 @@ This repository contains my Python learning journey.
 - Functions
 
 ## Goal
-To become a skilled developer and crack placements 💼
+To become a skilled developer and crack placements 
